@@ -1,0 +1,25 @@
+1 Manager Linca Marius 1700101416292
+24 Vanzator Petrescu Viorica 2880909201746 
+25 Vanzator Linca Florin 1731213406096 
+2 Programator Stefan Silviu 1720101413924
+3 Vanzator Ion Valentin 1820101418851
+4 Vanzator Popescu David 1710101418309
+5 Manager Basescu Traian 1800101412869
+6 Vanzator Antonescu Veronica 2890411237398
+7 Programator Moldovan Alexandru 1861121051658
+8 Vanzator Calugar Cosmin 1920918108486 
+9 Programator Moldovan Alexandra 2830330466341
+10 Vanzator Popescu Ionut 1981215131692 
+11 Manager Simion Timea 2620701419551 
+12 Vanzator Luca Antonio 1890827146311 
+13 Programator Balint Gabriel 1840321030901 
+14 Vanzator Ipatescu Silvia 2911209228588 
+15 Vanzator Dragnea Liviu 1820614276551 
+23 Programator Dragnea Cosmina 2930901103052 
+17 Manager Dumitrescu Florin 1800131318777 
+18 Vanzator Petrescu Corina 2670402276422 
+19 Programator Stan Andreea 2910113203386 
+20 Programator Pop Mihai 1920806278006 
+21 Vanzator Popa Andrei 1940616043836 
+22 Programator Popescu Maria 2771231034061 
+
